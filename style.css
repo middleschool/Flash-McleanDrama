@@ -1,0 +1,80 @@
+td {
+	text-align: left;
+	font-family:tahoma;
+	font-size:11px;
+	color:#7C7C7C;
+	line-height:12px;
+}
+a {	text-decoration: none;
+	color:#D23746;}
+
+body { 	margin:0px;padding:0px; background-color:#FFFFFF}
+
+#roll { background-image:url(images/m1r.jpg)}
+#out { background-image:url(images/m1.jpg)}
+
+#roll1 { background-image:url(images/m2r.jpg)}
+#out1 { background-image:url(images/m2.jpg)}
+
+.copy{
+font-family:verdana;
+font-size:11px;
+color:#E7992F;
+}
+
+.verdana {font-family:verdana; font-size:11px}
+
+.menu_txt {color:#C97022; font-family:verdana; font-size:11px}
+
+.gray {color:#7C7C7C; text-decoration:none}
+.red {color:#D23746; text-decoration:none}
+.orange {color:#D66D16; text-decoration:none}
+.white {color:#ffffff; text-decoration:none}
+
+.sm {font-size:9px}
+.u {text-decoration:underline}
+.t {text-transform:uppercase}
+.big {font-size:11px}
+
+.form { width:282px;
+		height:18px;
+		font-family:tahoma;
+		font-size:11px;
+		border-style:;
+		border-width:;
+		border-color:#;
+		background-color:#;
+		color:#;
+		margin-left:0px;
+		margin-right:0px}
+		
+.textarea { width:282px;
+		height:87px;
+		font-family:tahoma;
+		font-size:11px;
+		border-style:;
+		border-width:;
+		border-color:#;
+		background-color:#;
+		color:#;
+		overflow:auto;
+		margin-left:0px;
+		margin-right:0px}
+
+.rollover {scrollbar-face-color:#4A483E;
+		scrollbar-track-color:#FAF4D3;
+		scrollbar-arrow-color:#FAF4D3;
+		scrollbar-3Dlight-color:#FAF4D3;
+		scrollbar-base-color:#FAF4D3;
+		scrollbar-shadow-color:#FAF4D3;
+		scrollbar-darkshadow-color:#FAF4D3;
+		scrollbar-highlight-color:#FAF4D3;
+		}
+
+
+a:hover{text-decoration:none;}
+#a:hover{text-decoration:none;}
+
+
+
+
